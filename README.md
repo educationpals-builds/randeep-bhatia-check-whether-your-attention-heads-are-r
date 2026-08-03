@@ -1,29 +1,41 @@
-# Education Pals Build Pack
+# The Head-Map Interrogator
 
-- Course: `2ad65768-198c-5614-ba63-948602ecc629`
-- Chapter: `f08a37ef-1040-5bf3-b80c-7b920f5c9251`
-- Template: `baw_c002_ch05`
-- Compiled: 2026-08-03T21:47:00.123Z
-- Verification token: `01KZ4SGA4V8E2ZMPBSBK2DCQJB`
-- Composition mode: `shipgen`
-- Workshop publication: `01KZ31G9Z665YQG53WKX9W30CE`
-- Proof challenge: `7a056526f45888c686523ef41b449843`
-- Artifact type: `baw.v3`
-- Repository: https://github.com/educationpals-builds/randeep-bhatia-check-whether-your-attention-heads-are-r
+## Specimen
 
-## Variants
+Lease tool that splits contract lines into separate duties
 
-- `README.md` → `README.md`
-- `charter.md` → `charter.md`
-- `blueprints/head-map-interrogator.md` → `blueprints/head-map-interrogator.md`
-- `prompts/split-walk-pack.md` → `prompts/split-walk-pack.md`
-- `METHOD.md` → `METHOD.md`
-- `VERIFY.md` → `VERIFY.md`
-- `.ep/provenance.json` → `.ep/provenance.json.md`
+## Verdict
 
-## Files
+Call: ship-with-conditions
+Why: Nobody ever checked the parts on their own still breaks Lease tool that splits contract lines into separate duties on the real messages above.
+Pass bar: Each duty lands on its own line with the right party named
+Condition (owner: [name]): [one checkable action before ship]
+If we hold instead: reopen when [a per-helper measurement] clears.
 
-- `manifest.json` — verification manifest
-- `instructions.md` — paste tips per variant
+## Tripwire
+
+Metric: [a number Nobody ever checked the parts on their own can move — not overall accuracy alone]
+Trouble threshold: [the number that means stop]
+Owner: [who gets the alert]
+Why this catches it: when Nobody ever checked the parts on their own fails, this number should move before customers do.
+
+---
+
+## One-Paste Rebuild Block
+
+```
+Specimen: Lease tool that splits contract lines into separate duties
+Standard: Each duty lands on its own line with the right party named
+Deciding check: ablation
+Call: ship-with-conditions
+Tripwire metric: [a number Nobody ever checked the parts on their own can move — not overall accuracy alone]
+Trouble threshold: [the number that means stop]
+```
+
+---
+
+See [charter.md](charter.md) for the full audit run.  
+See [METHOD.md](METHOD.md) for the five-split framework.  
+See [VERIFY.md](VERIFY.md) for stranger verification steps.
 
 <!-- educationpals-build-verified -->
